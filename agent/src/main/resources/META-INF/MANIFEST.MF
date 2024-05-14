@@ -1,0 +1,4 @@
+Agent-Class: com.foocloud.AgentMain
+Premain-Class: com.foocloud.AgentMain
+Can-Redefine-Classes: true
+Can-Retransform-Classes: true
